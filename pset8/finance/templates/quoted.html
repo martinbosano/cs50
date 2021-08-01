@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Stock information
+{% endblock %}
+
+{% block main %}
+    <p>
+        
+        Stock: {{stock['name']}} <br>
+        Symbol: {{stock['symbol']}} <br>
+        Price:  {{stock['price']}} <br>
+    </p>
+{% endblock %}

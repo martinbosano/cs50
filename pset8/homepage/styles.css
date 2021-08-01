@@ -1,0 +1,108 @@
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body
+{
+    background-color: #C1BEBD;
+}
+h1
+{
+    text-align:center;
+    font-size:large;
+    margin-left: 5px;
+    background-color:white;
+}
+h2
+{
+    text-align:center;
+    font-size:large;
+    margin-left: 2px;
+    background-color:white;
+}
+p
+{
+    margin:35px;
+    background-color:#F7DDD4;
+}
+
+article
+{
+    margin:35px;
+    background-color:#F7DDD4;
+}
+body{
+background: url(fondo.jpeg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+#holis {
+    text-align:center;
+}
+
+#daleboca {
+    font-size: medium;
+    color: violet;
+    background-color:white;
+
+}
+
+#boton {
+    color: grey;
+    text-shadow: 1px 1px;
+    content:'Send Rodolfo your question';
+}
+
+#photo {
+    border-radius: 20px;
+}
+
+#imagenvoladora {
+    float:left;
+}
+
+#blinker {
+    text-decoration: underline overline;
+    background-image: linear-gradient(180deg, pink, grey);
+    font-size: large;
+}
+#blinker2 {
+    text-decoration: underline overline;
+    background-image: linear-gradient(180deg, pink, grey);
+    font-size: large;
+}
+
+#firma {
+    background-color:grey;
+    color:violet;
+}
+#firma2 {
+    background-color:grey;
+    color:violet;
+}
+.inter {
+    text-align:center;
+    font-size:large;
+    margin-left: 5px;
+    background-image: linear-gradient(grey, pink);
+
+}
+
+h1:hover {
+  background-color: pink;
+}
+
+h3 {
+    font-size: medium;
+    background-color: pink;
+    margin: 6px 6px;
+}
+
+h2:hover {
+    background-color: pink;
+}
